@@ -1,19 +1,9 @@
 table {
     border: 1px solid #000;
     border-collapse: collapse;
-    margin-top: 0.5em;
-    table-layout: fixed;
-  width: 100%;
-    
+    margin-top: 0.5em;   
 }
 
-thead th:nth-child(1) {
-  width: 2em;
-}
-
-thead th:nth-child(2) {
-  width: 4em;
-}
 
 td {
     border: 1px solid #000;
